@@ -1,0 +1,282 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+main{
+    margin: 0 auto;
+    width: 1730px;
+    height: 3000px;
+    background-color: antiquewhite;
+}
+.header{
+    height:750px ;
+}
+#img{
+    background-image: url('images/banner.jpg');
+    width: 865px;
+    height: 750px;
+    background-size: 100% 100%;
+    float: left;
+    
+}
+#logo{
+    margin-top: 30px;
+}
+#text{
+    width: 865px;
+    
+    height: 750px;
+    /* padding: 15px; */
+    background-color: #02185b;
+    float: left;
+}
+#contact{
+    text-align: right;
+
+}
+#text-contact{
+    color:white;
+}
+#text-content:hover{
+
+    color:#d0b608;
+}
+#text-1{
+    color:yellow;
+    font-size: 60px;
+    text-align: center;
+}
+#text-2{
+    color: white;
+    font-size: 60px;
+    text-align: center;
+}
+#brand{
+    height: 190px;
+}
+h2{
+    font-size: 55px;
+    text-align: center;
+    padding-top: 60px;
+    padding-bottom: 60px;
+
+
+}
+#galery{
+    background-color: #e9ebec;
+    height: 613px;
+}
+article{
+    width: 1140px;
+    padding: 125px 0 60px;
+    margin: auto auto;
+}
+.asghar{
+    padding: 0 15px;
+}
+.left{
+    width: 320px;
+    height: 322px;
+    background-color: #fff;
+    text-align: center;
+    padding: 0 20px;
+    float: left;
+}
+.img{
+    margin-top: -65px;
+}
+h3{
+    padding: 20px 0 5px;
+}
+.galerytext{
+    font-size: 17px;
+    line-height: 35px;
+
+}
+
+.left:hover{
+    background-color: #02185b;
+    color: #fff;
+}
+#div-btn{
+  text-align: center;
+}
+#btn{
+    width: 200px;
+    height: 57px;
+    text-align: center;
+    background-color: #02185b;
+    color: #fff;
+    font-size: large;
+    border: 0;
+    margin-top: 50px;
+}
+
+#btn:hover{
+    background-color: rgb(214, 182, 0);
+}
+.content{
+    width: 1730px;
+    height: 800px;
+    /* background-color: rgb(187, 42, 42); */
+    /* text-align: center; */
+    float:left;
+}
+#history{
+    width: 1730px;
+    margin-top:50px ;
+    padding:0 150px;
+    
+}
+.histor{
+    text-align: center;
+    font-size: 30px;
+}
+.hist{
+    text-align: center;
+    font-size: 60px;
+}
+.archive{
+    /* display:flex;
+    direction:row; */
+    padding: 20px  70px;
+}
+.year{
+    padding:30px;
+    border: 3px solid blue;
+    border-radius: 50%;
+    float:left;
+    color: yellow;
+}
+p{
+    width: 50%;
+}
+#h4,p{
+    margin-left: 40px;
+    padding-left: 70px;
+}
+#btn2{
+text-align: center;
+padding-top: 50px;
+}
+.title{
+    /* float:left; */
+
+}
+.describe {
+    
+    /* float: left;; */
+}
+#reed{
+    padding:10px 20px;
+    border: none;
+    background-color: #02185b;
+    /* text-align: center;*/
+} 
+a{
+    color: white;
+}
+.session{
+    background-color: #02185b;
+    height:1500px ;
+}
+#test{
+    color:white;
+}
+#box{
+    border:2px solid black;
+    width: 70%;
+    height: 350px;
+    margin-left: 120px;
+    display:flex;
+    direction: row;
+    
+}
+#photo{
+    
+}
+#ax{
+    margin:40px ;
+}
+#p1{margin-left: 70px;
+color:white}
+#matn{
+    margin-top: 50px;
+    width: 100%;
+    height: 220px;
+    border-left: 2px solid black;
+    /* text-align: center; */
+    
+    
+}
+ #p2{
+    /* width: 70%; */
+    text-align: center;
+    color: white;
+}
+.form{
+    display:flex;
+    direction: row;
+    margin:80px 50px;
+}
+
+
+#form-text:{
+    width: 50%;
+    height: auto;
+    
+
+}
+#h1{
+    text-align: left;
+}
+#h2{
+    text-align: left;
+    font-size: 30px;
+}
+#form-box{
+    width: 50%;
+    
+    margin-top:100px;
+    margin-left: 30px;
+    margin-right: 600px;
+    /* text-align: center; */
+}
+#send{
+    border: none;
+    background-color: #02185b;
+    padding:6px 30px;
+    margin-top: 30px;
+
+}
+footer{
+    background-color: #02185b;
+    height: 300px;
+    
+}
+#p3 , #p4{
+    text-align: center;
+    font-size: 50px;
+    color:white;
+}
+#p5{
+    color:#d0b608;
+    text-align: center;
+    font-size: 20px;
+    
+}
+#yellow{
+    text-align: center;
+    margin-left: 400px;
+    background-color:#d0b608; 
+    padding:5px 30px;
+    margin-top:20px;
+}
+#yellow:hover{
+   background-color:black;
+}
+
+#p6{
+    text-align: center;
+    margin: 10px;
+}
